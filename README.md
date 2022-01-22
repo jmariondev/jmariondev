@@ -1,4 +1,4 @@
 Hi! :wave:
 
-:lock: PGP: [`4FD8 D6EB BAB8 CC10 1998  E862 46EF F9CB 24CC 43F7`](https://jmarion.dev/pgp/)
+:lock: PGP: [`7747 AC6D 60A7 0DA3 AD0B  C5C9 45A2 41CB C392 7269`](https://jmarion.dev/pgp/)
 
